@@ -45,4 +45,7 @@ function installCommandoLineAndroid(){
     
 }
 
+
+
+installFlutterSDK
 installCommandoLineAndroid
